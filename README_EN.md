@@ -35,26 +35,6 @@ Using Cursor? Open the [agent-aware quick start](https://tt-a1i.github.io/archif
 
 Then ask your agent: `Use archify to map this repository's runtime architecture.`
 
-## ❤️ Sponsors
-
-<a href="https://apinebula.ai/ref/wywnaATT"><img src="docs/assets/sponsors/apinebula-archify.jpg" alt="APINEBULA — One API for leading AI models" width="100%"></a>
-
-Thanks to [**APINEBULA**](https://apinebula.ai/ref/wywnaATT) for sponsoring Archify. APINEBULA offers unified access to Claude, GPT, Gemini, and more. Register through [the Archify link](https://apinebula.ai/ref/wywnaATT) and use **`Archify`** for a **10% discount**.
-
-<a href="https://github.com/EverMind-AI/Raven"><img src="docs/assets/sponsors/evermind-archify-raven.png" alt="Archify × Raven — Map the system. Keep the context." width="100%"></a>
-
-Sponsored by [**EverMind**](https://github.com/EverMind-AI), building memory infrastructure for agents. Its memory-first, self-evolving agent harness [**Raven**](https://github.com/EverMind-AI/Raven) supports Archify as a Skill, bringing verified, interactive system maps into Raven workflows.
-
-## See Archify in action
-
-These are generated Archify artifacts, not product mockups. Click a frame to open its live, shareable state.
-
-<p align="center">
-  <a href="https://tt-a1i.github.io/archify/gallery.html"><img src="docs/assets/archify-live-proof.gif" alt="Three verified Archify artifacts moving through Signal Flow, Blueprint, and Classic presets" width="960"/></a>
-  <br/>
-  <sub><strong>Three real generated artifacts.</strong> Signal Flow · Blueprint · Classic · <a href="https://tt-a1i.github.io/archify/gallery.html">open the interactive Proof Lab ↗</a></sub>
-</p>
-
 | Guided story | Route probe | Semantic lens |
 |---|---|---|
 | [![Agent workflow playing one authored chapter](docs/assets/archify-demo-story.png)](https://tt-a1i.github.io/archify/gallery/artifacts/agent-tool-call.workflow.html?theme=dark&present=1&play=1#view=happy-path) | [![Cache-miss sequence showing the Web App to Postgres route](docs/assets/archify-demo-route.png)](https://tt-a1i.github.io/archify/gallery/artifacts/cache-miss.sequence.html?theme=dark&present=1#route=web~db) | [![Production architecture comparing backend and database roles](docs/assets/archify-demo-lens.png)](https://tt-a1i.github.io/archify/gallery/artifacts/production-deployment.architecture.html?theme=dark&present=1#lens=backend~database) |
