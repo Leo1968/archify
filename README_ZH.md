@@ -31,16 +31,6 @@ npx skills add tt-a1i/archify -g
 
 然后告诉 Agent：`使用 archify 梳理这个仓库的运行时架构。`
 
-## ❤️ 赞助伙伴
-
-<a href="https://apinebula.ai/ref/wywnaATT"><img src="docs/assets/sponsors/apinebula-archify.jpg" alt="APINEBULA——一个接口，接入全球顶尖 AI 模型" width="100%"></a>
-
-感谢 [**APINEBULA**](https://apinebula.ai/ref/wywnaATT) 赞助本项目。APINEBULA 是银河录像局旗下的企业级 AI 聚合平台，面向开发者、团队与企业用户提供稳定、高性价比的大模型 API 接入服务。平台通过统一接口聚合 Claude、GPT、Gemini 等主流满血模型，部分模型价格低至官方价格的 1 折，并支持企业级高并发、正式合同、对公打款与开票服务，适合 AI 编程、Agent 开发和业务系统集成等场景。通过 [Archify 专属链接](https://apinebula.ai/ref/wywnaATT) 注册并在充值时填写优惠码 **`Archify`**，即可享受 **9 折优惠**。
-
-<a href="https://github.com/EverMind-AI/Raven"><img src="docs/assets/sponsors/evermind-archify-raven.png" alt="Archify × Raven——绘制系统，保留上下文" width="100%"></a>
-
-本项目由专注 Agent 记忆基础设施的 [**EverMind**](https://github.com/EverMind-AI) 赞助。EverMind 旗下以记忆为核心、可自进化的 Agent Harness [**Raven**](https://github.com/EverMind-AI/Raven) 已支持 Archify Skill，让 Raven 工作流可以直接生成经过验证的交互式系统地图。
-
 ## 看看 Archify 能做什么
 
 下面都是真实生成的 Archify 成品，不是产品效果图。点击画面即可打开对应的可分享交互状态。
